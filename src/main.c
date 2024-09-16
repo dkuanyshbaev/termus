@@ -5,8 +5,6 @@
 #include <stdio.h>
 
 int main(void) {
-    puts("Welcome to termus!");
-
     ma_result result;
     ma_engine engine;
 
